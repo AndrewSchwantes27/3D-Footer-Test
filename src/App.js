@@ -62,7 +62,8 @@ function InstancedDucks({ count = 200 }) {
   }));
 
   // Load the duck model
-  const { scene } = useGLTF("/Duck.glb");
+  const duckPath = `${process.env.PUBLIC_URL}/Duck.glb`;
+  const { scene } = useGLTF(duckPath);
 
   if (!scene) return null; // Ensure the model is loaded before rendering
 
