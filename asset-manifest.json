@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/3D-Footer-Test/static/css/main.6317cd65.css",
+    "main.js": "/3D-Footer-Test/static/js/main.a81b6ec0.js",
+    "index.html": "/3D-Footer-Test/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6317cd65.css",
+    "static/js/main.a81b6ec0.js"
+  ]
+}
