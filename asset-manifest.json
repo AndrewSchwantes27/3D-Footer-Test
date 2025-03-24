@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/3D-Footer-Test/static/css/main.6317cd65.css",
+    "main.css": "/3D-Footer-Test/static/css/main.bd30af5a.css",
     "main.js": "/3D-Footer-Test/static/js/main.93221ccf.js",
     "index.html": "/3D-Footer-Test/index.html"
   },
   "entrypoints": [
-    "static/css/main.6317cd65.css",
+    "static/css/main.bd30af5a.css",
     "static/js/main.93221ccf.js"
   ]
 }
