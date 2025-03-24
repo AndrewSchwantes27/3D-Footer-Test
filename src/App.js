@@ -56,7 +56,7 @@ function InstancedDucks({ count = 200 }) {
   const viewport = { width: 26, height: 18 }; // Hardcoded viewport dimensions
   console.log(viewport.width, viewport.height);
   const [ref] = useSphere((index) => ({
-    mass: 100,
+    mass: 300,
     position: [4 - Math.random() * 8, viewport.height, 0],
     args: [1.2],
   }));
